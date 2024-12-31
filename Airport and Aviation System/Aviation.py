@@ -1,4 +1,4 @@
-# Developed by: Ariana Feng
+# Developed by: Ariana F
 # Date: April 07, 2023
 # Desc: program that loads text files representing some of the airports and flights around the world
 #       and analyzes the flights according to specifications.
